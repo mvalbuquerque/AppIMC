@@ -8,7 +8,7 @@ Hello!
 The idea of the app is simple: Calculator IMC 
 
 <p align="center">
-  <img src="https://github.com/mvalbuquerque/megasena/blob/master/App1.png" width="250"/>
+  <img src="https://github.com/mvalbuquerque/AppIMC/blob/master/imcImg.png" width="250"/>
   
 </p>
 
