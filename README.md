@@ -1,4 +1,4 @@
-# App Calculador de IMC
+# App Calculator de IMC
 
 
 Hello! 
